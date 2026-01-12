@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="icon.png" alt="NUXIE FIREWALL Logo" width="160">
+</p>
+
+<h1 align="center">NUXIE FIREWALL</h1>
+<p align="center">
+  Lightweight DDoS Protection & Traffic Analyzer (v3.2 – Tester)
+</p>
+
 > ## 🧪 สำหรับผู้ทดสอบ (Tester – v3.2)
 >
 > โปรแกรมนี้แจกให้ **ทดลองใช้งานฟรี** สำหรับผู้ทดสอบกลุ่มเล็ก  
