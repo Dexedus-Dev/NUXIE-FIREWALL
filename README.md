@@ -7,6 +7,10 @@
   Lightweight DDoS Protection & Traffic Analyzer (v3.2 – Tester)
 </p>
 
+## 🎥 Demo (v3.2)
+
+[![NUXIE FIREWALL Demo](assets/demo-preview.png)](https://github.com/Dexedus-Dev/NUXIE-FIREWALL/releases/tag/Nuxie-Releases)
+
 > ## 🧪 สำหรับผู้ทดสอบ (Tester – v3.2)
 >
 > โปรแกรมนี้แจกให้ **ทดลองใช้งานฟรี** สำหรับผู้ทดสอบกลุ่มเล็ก  
