@@ -9,7 +9,7 @@
 
 ## 🎥 Demo (v3.2)
 
-[![NUXIE FIREWALL Demo](assets/demo-preview.png)](https://github.com/Dexedus-Dev/NUXIE-FIREWALL/releases/tag/Nuxie-Releases)
+[![NUXIE FIREWALL Demo](demo-preview.png)](https://github.com/Dexedus-Dev/NUXIE-FIREWALL/releases/tag/Nuxie-Releases)
 
 > ## 🧪 สำหรับผู้ทดสอบ (Tester – v3.2)
 >
