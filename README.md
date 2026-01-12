@@ -8,7 +8,7 @@
 </p>
 
 ## 🎥 Demo (v3.2)
-[![Demo](demo-preview.png)](https://github.com/Dexedus-Dev/NUXIE-FIREWALL/releases/download/v3.2/demo.mp4)
+[![Demo](demo-preview.png)](https://github.com/Dexedus-Dev/NUXIE-FIREWALL/releases/download/Nuxie-Releases/demo.mp4)
 
 > ## 🧪 สำหรับผู้ทดสอบ (Tester – v3.2)
 >
